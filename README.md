@@ -25,3 +25,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Menu Beranda
     - Dashboard
     - Form Aduan
+
+## Login
+Untuk login silakan masukkan email dan kata sandi berikut
+
+| Surel      | admin@admin.com |
+|------------|-----------------|
+| Kata Sandi | 12345678        |
