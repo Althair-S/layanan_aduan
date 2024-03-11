@@ -18,3 +18,10 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##Fitur(Draft)
+
+-Autentikasi/Login/Logout
+-Menu Beranda
+    -Dashboard
+    -Form Aduan
