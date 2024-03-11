@@ -21,7 +21,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Fitur(Draft)
 
--Autentikasi/Login/Logout
--Menu Beranda
-    -Dashboard
-    -Form Aduan
+- Autentikasi/Login/Logout
+- Menu Beranda
+    - Dashboard
+    - Form Aduan
